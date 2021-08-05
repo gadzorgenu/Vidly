@@ -1,7 +1,7 @@
 from django.utils import timezone
 from django.db import models
-import json
-from pathlib import Path
+# import json
+# from pathlib import Path
 
 # Create your models here.
 # inheriting the Genre class from the base class
